@@ -33,8 +33,8 @@ Briefly describe your project. Explain what it does, its purpose, and any backgr
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/vantoan2905/Server-Game-Django.git
+   cd Server-Game-Django
    ```
 
 2. **Create and activate a virtual environment:**
